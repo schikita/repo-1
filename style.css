@@ -1,1 +1,5 @@
 /*------------For desctop-----------------*/
+
+body {
+    display: flex;
+}
